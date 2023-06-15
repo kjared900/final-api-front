@@ -1,1 +1,1 @@
-export const API_URL = 'HTTP://localhost:3000'
+export const API_URL = 'https://api-final-ycse.onrender.com'
